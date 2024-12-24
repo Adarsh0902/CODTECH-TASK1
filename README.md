@@ -40,6 +40,6 @@ JSON files for storing and serving project and blog post data.
 
 OUTPUT
 ![Screenshot 2024-12-24 202541](https://github.com/user-attachments/assets/0b891d30-2dd7-4063-a196-9aad07311f25)
-![Screenshot 2024-12-24 205005](https://github.com/user-attachments/assets/fc84fd12-a512-4803-9654-62c7c3ffd86c)
+![Screenshot 2024-12-24 202627](https://github.com/user-attachments/assets/469c93a1-60eb-48c7-9daa-a9233f923368)
 
 

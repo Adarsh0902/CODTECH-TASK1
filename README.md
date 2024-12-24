@@ -1,14 +1,14 @@
-Name: N.ADARSH NAGASIVA
-Company: CODTECH IT SOLUTIONS
-ID: CT08DUF
-Domain: Full Stack Web Development
-Duration: Dec 17, 2024 to Jan 17, 2025
-Mentor: Sravani Gouni
+NAME:ADARSH NAGASIVA 
+COMPANY:CODTECH IT SOLUTIONS
+ID::CT08DUF
+DOMAIN:FULL SATCK WEB DEVELOPMENT
+DURATION: DEC 17 2024 TO JAN 17 2025
+MENTOR:SRAVANI GOUNI
 
 Overview of the project
 
 Project: PERSONAL PORTFOLIO WEBSITE WITH BACKEND
-
+ 
 Objective:
 
 Create a personal portfolio website with a backend to manage content. This
